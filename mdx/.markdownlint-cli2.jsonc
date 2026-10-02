@@ -1,0 +1,4 @@
+{
+  "config": { "default": true, "RSCIsoRule": true },
+  "customRules": ["./rs2iso_rule.cjs"]
+}
